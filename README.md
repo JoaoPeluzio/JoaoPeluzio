@@ -1,10 +1,12 @@
-👋 Olá! Sou um apaixonado por tecnologia, atualmente cursando Tecnologia da Informação na Saint Leo University. Meu foco principal é o desenvolvimento web full-stack, onde busco criar experiências de usuário cativantes e funcionais.
+👋 I'm passionate about technology and am currently studying Information Technology at Saint Leo University. My main focus is full-stack web development, where I strive to create engaging and functional user experiences.
 
-💻 Estou constantemente aprendendo e aprimorando minhas habilidades em HTML, CSS e JavaScript, além de explorar frameworks e bibliotecas como React.js, Tailwind.css, dentre outras para criar interfaces web dinâmicas e responsivas.
+💻 I am constantly learning and improving my skills in HTML, CSS and JavaScript, as well as exploring frameworks and libraries such as React.js, Tailwind.css, among others to create dynamic and responsive web interfaces. 
 
-🌱 Estou sempre aberto a colaborações e projetos interessantes. Se você tem alguma ideia ou projeto em mente, não hesite em entrar em contato! Vamos criar algo incrível juntos.
+🌱 I'm always open to collaboration and interesting projects. If you have any ideas or projects in mind, don't hesitate to get in touch! Let's create something amazing together.
 
-📫 Você pode me encontrar aqui no GitHub, onde compartilho alguns dos meus projetos e contribuições. Estou animado para fazer parte desta comunidade vibrante e colaborativa!
+📫 You can find me here on GitHub, where I share some of my projects and contributions. I'm excited to be part of this vibrant and collaborative community!
+
+Translated with DeepL.com (free version)
 
 <!---
 JoaoPeluzio/JoaoPeluzio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
