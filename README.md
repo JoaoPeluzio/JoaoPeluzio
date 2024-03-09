@@ -1,4 +1,4 @@
-👋 Olá! Sou apaixonado por tecnologia, atualmente cursando Tecnologia da Informação na Saint Leo University. Meu foco principal é o desenvolvimento web full-stack, onde busco criar experiências de usuário cativantes e funcionais.
+👋 Olá! Sou um apaixonado por tecnologia, atualmente cursando Tecnologia da Informação na Saint Leo University. Meu foco principal é o desenvolvimento web full-stack, onde busco criar experiências de usuário cativantes e funcionais.
 
 💻 Estou constantemente aprendendo e aprimorando minhas habilidades em HTML, CSS e JavaScript, além de explorar frameworks e bibliotecas como React.js, Tailwind.css, dentre outras para criar interfaces web dinâmicas e responsivas.
 
