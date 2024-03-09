@@ -6,7 +6,9 @@
 
 📫 You can find me here on GitHub, where I share some of my projects and contributions. I'm excited to be part of this vibrant and collaborative community!
 
-Translated with DeepL.com (free version)
+📫 Feel free to send me a mail: jvpeluzio@gmail.com
+
+
 
 <!---
 JoaoPeluzio/JoaoPeluzio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
