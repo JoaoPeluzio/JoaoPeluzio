@@ -1,4 +1,4 @@
-👋 Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Valença - UNIFAA, no Rio de Janeiro. Meu foco principal é o desenvolvimento web full-stack, onde me esforço para criar experiências de usuário envolventes e funcionais.
+👋 I'm passionate about technology and I'm currently studying Systems Analysis and Development at the Valença University Center - UNIFAA, in Rio de Janeiro. My main focus is full-stack web development, where I strive to create engaging and functional user experiences.
 
 📫 Feel free to reach out with me: jvpeluzio@gmail.com
 
