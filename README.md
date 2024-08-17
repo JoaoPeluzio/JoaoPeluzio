@@ -1,12 +1,6 @@
-👋 I'm passionate about technology and am currently studying Information Technology at Saint Leo University. My main focus is full-stack web development, where I strive to create engaging and functional user experiences.
+👋 Sou apaixonado por tecnologia e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário de Valença - UNIFAA, no Rio de Janeiro. Meu foco principal é o desenvolvimento web full-stack, onde me esforço para criar experiências de usuário envolventes e funcionais.
 
-💻 I am constantly learning and improving my skills in HTML, CSS and JavaScript, as well as exploring frameworks and libraries such as React.js, Tailwind.css, among others to create dynamic and responsive web interfaces. 
-
-🌱 I'm always open to collaboration and interesting projects. If you have any ideas or projects in mind, don't hesitate to get in touch! Let's create something amazing together.
-
-📫 You can find me here on GitHub, where I share some of my projects and contributions. I'm excited to be part of this vibrant and collaborative community!
-
-📫 Feel free to send me a mail: jvpeluzio@gmail.com
+📫 Feel free to reach out with me: jvpeluzio@gmail.com
 
 
 
