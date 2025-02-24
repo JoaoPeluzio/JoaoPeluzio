@@ -1,4 +1,4 @@
-👋 I'm passionate about technology and I'm currently studying Systems Analysis and Development at the Valença University Center - UNIFAA, in Rio de Janeiro. My main focus is full-stack web development, where I strive to create engaging and functional user experiences.
+👋 I'm a web developer passionate about technology and cibersecurity. I'm currently studying Systems Analysis and Development at SENAC and I'm specializing in DevSecOps at RNP and SENAI-SP in the program Hackers do Bem. 
 
 📫 Feel free to reach out with me: jvpeluzio@gmail.com
 
