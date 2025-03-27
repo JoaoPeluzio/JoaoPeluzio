@@ -1,4 +1,4 @@
-👋 I'm a web developer passionate about technology and cibersecurity. I'm currently studying Systems Analysis and Development at SENAC and I'm specializing in DevSecOps at RNP and SENAI-SP in the program Hackers do Bem. 
+👋 I'm a web developer passionate about technology and cibersecurity. I'm currently studying Systems Analysis and Development at SENAC and I'm specializing in DevSecOps at RNP and SENAI-SP in the Hackers do Bem program. 
 
 📫 Feel free to reach out with me: jvpeluzio@gmail.com
 
